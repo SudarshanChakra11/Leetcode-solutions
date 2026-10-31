@@ -36,22 +36,6 @@ This repository will progressively cover:
 - Dynamic Programming
 - Greedy Algorithms
 
-## 📂 Repository Structure
-
-```text
-LeetCode-DSA-Practice/
-│
-├── Arrays/
-├── Strings/
-├── HashTables/
-├── BinarySearch/
-├── LinkedLists/
-├── Stacks/
-├── Trees/
-├── DynamicProgramming/
-└── README.md
-```
-
 ## 📈 My Progress
 
 I will continuously update this repository with newly solved problems, including their problem statements, Python implementations, and explanations wherever applicable.
