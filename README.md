@@ -69,3 +69,19 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 **Consistency + Practice + Optimization = Progress!**
 
 ⭐ Feel free to explore the repository and follow my DSA journey.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+## Matrix
+|  |
+| ------- |
+| [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+<!---LeetCode Topics End-->
