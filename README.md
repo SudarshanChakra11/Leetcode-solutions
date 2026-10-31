@@ -1,2 +1,71 @@
-# Leetcode-solutions
-A collection of daily LeetCode problems solved using Python, focusing on Data Structures, Algorithms, optimized solutions, and time and space complexity analysis. This repository tracks my problem-solving journey and preparation for technical interviews and coding assessments.
+# LeetCode DSA Practice 🧩
+
+Welcome to my **LeetCode DSA Practice** repository! This repository documents my daily journey of solving Data Structures and Algorithms (DSA) problems on LeetCode using **Python**.
+
+The primary objective is to strengthen my problem-solving abilities, develop logical thinking, understand algorithmic concepts, and prepare for technical interviews and coding assessments.
+
+## 🎯 Objectives
+
+- Practice DSA problems consistently.
+- Develop optimized and efficient coding solutions.
+- Understand different approaches to solving problems.
+- Improve time and space complexity analysis.
+- Strengthen preparation for technical interviews.
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3
+- **Platform:** LeetCode
+- **IDE:** VS Code
+
+## 📚 Topics To Be Covered
+
+This repository will progressively cover:
+
+- Arrays and Strings
+- Hash Tables
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Sorting Algorithms
+- Linked Lists
+- Stacks and Queues
+- Recursion and Backtracking
+- Trees and Binary Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+
+## 📂 Repository Structure
+
+```text
+LeetCode-DSA-Practice/
+│
+├── Arrays/
+├── Strings/
+├── HashTables/
+├── BinarySearch/
+├── LinkedLists/
+├── Stacks/
+├── Trees/
+├── DynamicProgramming/
+└── README.md
+```
+
+## 📈 My Progress
+
+I will continuously update this repository with newly solved problems, including their problem statements, Python implementations, and explanations wherever applicable.
+
+Each solution aims to focus on:
+- Understanding the problem.
+- Developing a logical approach.
+- Implementing the solution in Python.
+- Analyzing time and space complexity.
+
+## 🚀 Goal
+
+My goal is to become stronger in Data Structures and Algorithms through consistent practice and build the problem-solving skills required to succeed in technical interviews.
+
+**Consistency + Practice + Optimization = Progress!**
+
+⭐ Feel free to explore the repository and follow my DSA journey.
