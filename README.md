@@ -84,4 +84,12 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
