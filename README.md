@@ -72,10 +72,12 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0344-reverse-string) |
 ## Math
 |  |
