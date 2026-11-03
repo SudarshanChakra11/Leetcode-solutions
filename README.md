@@ -60,6 +60,7 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -89,4 +90,16 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Hash Table
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
