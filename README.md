@@ -60,6 +60,7 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -76,6 +77,7 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 | ------- |
 | [0125-valid-palindrome](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +105,8 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
