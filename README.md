@@ -14,7 +14,7 @@ The primary objective is to strengthen my problem-solving abilities, develop log
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python 3
+- **Language:** Python 3, Java
 - **Platform:** LeetCode
 - **IDE:** VS Code
 
