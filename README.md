@@ -61,6 +61,7 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1882-process-tasks-using-servers](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2747-count-zero-request-servers](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -116,4 +117,8 @@ My goal is to become stronger in Data Structures and Algorithms through consiste
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1882-process-tasks-using-servers](https://github.com/SudarshanChakra11/Leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 <!---LeetCode Topics End-->
